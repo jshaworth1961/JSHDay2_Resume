@@ -1,0 +1,29 @@
+body {
+    font-family: 'Arimo', sans-serif;
+    background-color:lightgray;
+}
+
+header.title {
+    text-align: center;
+    color: blue;
+    background-color: slategray;
+}
+
+hr
+{
+    background-color:black;
+    border:solid;
+    
+}
+
+p.position
+{
+    text-align:center;
+    color:darkblue;
+    font-weight:bolder;
+}
+
+section h3
+{
+    text-align:center;
+}
